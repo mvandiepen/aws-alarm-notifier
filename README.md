@@ -1,4 +1,4 @@
-# Alarm notifier
+# AWS Alarm notifier boilerplate
 
 ## Terraform
 
